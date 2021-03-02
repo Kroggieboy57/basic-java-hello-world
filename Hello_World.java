@@ -1,7 +1,6 @@
 
 /**
  * This Program on execution simply prints the statement Hello World
- *
  * @author Kroggieboy57
  * @version 1
  */
